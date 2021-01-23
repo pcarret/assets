@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CF582E2-57A2-4670-9BB2-D5DD3C2C63E1}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gltf", "gltf", "{C2C9ED9D-BC26-4FDC-9BA0-DD16C807C763}"
+	ProjectSection(SolutionItems) = preProject
+		gltf\pca.glb = gltf\pca.glb
+		gltf\pca.gltf = gltf\pca.gltf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2C9ED9D-BC26-4FDC-9BA0-DD16C807C763} = {3CF582E2-57A2-4670-9BB2-D5DD3C2C63E1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E540BE2-082E-4C60-A0D3-97EA05229850}
+	EndGlobalSection
+EndGlobal
