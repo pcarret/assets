@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.collada.org/2005/11/COLLADASchema https://www.khronos.org/files/collada_schema_1_4_1.xsd" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>aleker Collada Exporter</authoring_tool>
+            <comments>Created with aleker CAD www.aleker.fr</comments>
+        </contributor>
+        <created>2021-01-25T17:56:0.000000Z</created>
+        <modified>2021-01-25T17:56:0.000000Z</modified>
+        <unit name="meter" meter="1.0"/>
+        <up_axis>Y_UP</up_axis>
+    </asset>
+    <library_images>
+        <image id="{748862D2-1BC9-466a-A5A5-FD837C95C19E}" name="">
+            <init_from>images/H3012_ST22.JPG</init_from>
+        </image>
+        <image id="{1B3321F0-C516-4c98-B0B6-EC7DFE2B757C}" name="">
+            <init_from>images/H3012_ST22.JPG</init_from>
+        </image>
+    </library_images>
+    <library_materials>
+        <material id="{2B8479FD-D9E3-427d-8E85-B312800E9149}" name="{2B8479FD-D9E3-427d-8E85-B312800E9149}-Name">
+            <instance_effect url="#{2B8479FD-D9E3-427d-8E85-B312800E9149}-Effect"/>
+        </material>
+        <material id="{170E1103-D289-4c8e-A5CD-A6FD087B4B30}" name="{170E1103-D289-4c8e-A5CD-A6FD087B4B30}-Name">
+            <instance_effect url="#{170E1103-D289-4c8e-A5CD-A6FD087B4B30}-Effect"/>
+        </material>
+        <material id="{6392F08C-C976-417a-8394-B7EC34F1A5E6}" name="{6392F08C-C976-417a-8394-B7EC34F1A5E6}-Name">
+            <instance_effect url="#{6392F08C-C976-417a-8394-B7EC34F1A5E6}-Effect"/>
+        </material>
+    </library_materials>
+    <library_effects>
+        <effect id="{2B8479FD-D9E3-427d-8E85-B312800E9149}-Effect">
+            <profile_COMMON>
+                <newparam sid="Surface-{748862D2-1BC9-466a-A5A5-FD837C95C19E}">
+                    <surface type="2D">
+                        <init_from>{748862D2-1BC9-466a-A5A5-FD837C95C19E}</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Sampler-{748862D2-1BC9-466a-A5A5-FD837C95C19E}">
+                    <sampler2D>
+                        <source>Surface-{748862D2-1BC9-466a-A5A5-FD837C95C19E}</source>
+                    </sampler2D>
+                </newparam>
+                <technique>
+                    <blinn>
+                        <diffuse>
+                            <texture texture="Sampler-{748862D2-1BC9-466a-A5A5-FD837C95C19E}" texcoord="UVSET0"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.06 0.06 0.06 0</color>
+                        </specular>
+                        <ambient>
+                            <color>0.1 0.1 0.1 0</color>
+                        </ambient>
+                        <emission>
+                            <color>0 0 0 0</color>
+                        </emission>
+                        <shininess>
+                            <float>1.000000</float>
+                        </shininess>
+                        <transparency>
+                            <float>0.600000</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="{170E1103-D289-4c8e-A5CD-A6FD087B4B30}-Effect">
+            <profile_COMMON>
+                <newparam sid="Surface-{1B3321F0-C516-4c98-B0B6-EC7DFE2B757C}">
+                    <surface type="2D">
+                        <init_from>{1B3321F0-C516-4c98-B0B6-EC7DFE2B757C}</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="Sampler-{1B3321F0-C516-4c98-B0B6-EC7DFE2B757C}">
+                    <sampler2D>
+                        <source>Surface-{1B3321F0-C516-4c98-B0B6-EC7DFE2B757C}</source>
+                    </sampler2D>
+                </newparam>
+                <technique>
+                    <blinn>
+                        <diffuse>
+                            <texture texture="Sampler-{1B3321F0-C516-4c98-B0B6-EC7DFE2B757C}" texcoord="UVSET0"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.06 0.06 0.06 0</color>
+                        </specular>
+                        <ambient>
+                            <color>0.1 0.1 0.1 0</color>
+                        </ambient>
+                        <emission>
+                            <color>0 0 0 0</color>
+                        </emission>
+                        <shininess>
+                            <float>1.000000</float>
+                        </shininess>
+                        <transparency>
+                            <float>0.600000</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="{6392F08C-C976-417a-8394-B7EC34F1A5E6}-Effect">
+            <profile_COMMON>
+                <technique sid="common">
+                    <phong>
+                        <diffuse>
+                            <color>0 0.6 0 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.06 0.06 0.06 0</color>
+                        </specular>
+                        <ambient>
+                            <color>0.1 0.1 0.1 0</color>
+                        </ambient>
+                        <emission>
+                            <color>0 0 0 0</color>
+                        </emission>
+                        <shininess>
+                            <float>1.000000</float>
+                        </shininess>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_geometries>
+        <geometry id="{3C1592A1-AD65-4350-B414-A164042E7ED6}" name="">
+            <mesh>
+                <source id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-position3f" name="position3f">
+                    <float_array id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-position3f-array" count="72">1 0.769 0.6 1 0.75 0.6 1 0.769 0 1 0.75 0 0 0.769 0.6 0 0.75 0.6 0 0.769 0 0 0.75 0 1 0.769 0.6 1 0.75 0.6 0 0.769 0.6 0 0.75 0.6 1 0.769 0 1 0.75 0 0 0.769 0 0 0.75 0 1 0.769 0.6 1 0.769 0 0 0.769 0.6 0 0.769 0 1 0.75 0.6 1 0.75 0 0 0.75 0.6 0 0.75 0 </float_array>
+                    <technique_common>
+                        <accessor source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-position3f-array" offset="0" count="24" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-vertices">
+                    <input semantic="POSITION" source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-position3f"/>
+                </vertices>
+                <source id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-normals3f" name="normals3f">
+                    <float_array id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-normals3f-array" count="72">1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 </float_array>
+                    <technique_common>
+                        <accessor source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-normals3f-array" offset="0" count="24" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-texture2f">
+                    <float_array id="{3C1592A1-AD65-4350-B414-A164042E7ED6}-texture2f-array" count="48">0 1 0 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 1 0 -1 6.12323e-017 0 0 -1 1 6.12323e-017 1 -1 6.12323e-017 0 0 -1 1 6.12323e-017 1 </float_array>
+                    <technique_common>
+                        <accessor source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-texture2f-array" count="24" stride="2">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <triangles count="12" material="{2B8479FD-D9E3-427d-8E85-B312800E9149}">
+                    <input semantic="VERTEX" source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-vertices" offset="0"/>
+                    <input semantic="NORMAL" source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-normals3f" offset="1"/>
+                    <input semantic="TEXCOORD" source="#{3C1592A1-AD65-4350-B414-A164042E7ED6}-texture2f" offset="2"/>
+                    <p>0 0 0 1 1 1 3 3 3 3 3 3 2 2 2 0 0 0 4 4 4 7 7 7 5 5 5 7 7 7 4 4 4 6 6 6 8 8 8 11 11 11 9 9 9 11 11 11 8 8 8 10 10 10 12 12 12 13 13 13 15 15 15 15 15 15 14 14 14 12 12 12 16 16 16 17 17 17 19 19 19 19 19 19 18 18 18 16 16 16 20 20 20 23 23 23 21 21 21 23 23 23 20 20 20 22 22 22 </p>
+                </triangles>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_visual_scenes>
+        <visual_scene id="VisualSceneNode" name="VisualScene">
+            <node id="{3C1592A1-AD65-4350-B414-A164042E7ED6}_Node" name="">
+                <instance_geometry url="#{3C1592A1-AD65-4350-B414-A164042E7ED6}">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="{2B8479FD-D9E3-427d-8E85-B312800E9149}" target="#{2B8479FD-D9E3-427d-8E85-B312800E9149}"/>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#VisualSceneNode"/>
+    </scene>
+</COLLADA>
