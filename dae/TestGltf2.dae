@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.collada.org/2005/11/COLLADASchema https://www.khronos.org/files/collada_schema_1_4_1.xsd" version="1.4.1">
+    <asset>
+        <contributor>
+            <authoring_tool>aleker Collada Exporter</authoring_tool>
+            <comments>Created with aleker CAD www.aleker.fr</comments>
+        </contributor>
+        <created>2021-01-25T10:38:0.000000Z</created>
+        <modified>2021-01-25T10:38:0.000000Z</modified>
+        <unit name="meter" meter="1.0"/>
+        <up_axis>Y_UP</up_axis>
+    </asset>
+    <library_images/>
+    <library_materials>
+        <material id="{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}" name="{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}-Name">
+            <instance_effect url="#{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}-Effect"/>
+        </material>
+        <material id="{CA2FD7F6-C6CF-4d26-85D2-804742A93BCD}" name="{CA2FD7F6-C6CF-4d26-85D2-804742A93BCD}-Name">
+            <instance_effect url="#{CA2FD7F6-C6CF-4d26-85D2-804742A93BCD}-Effect"/>
+        </material>
+        <material id="{8BF7F691-CBC8-445d-B7FA-EF17519AD1F9}" name="{8BF7F691-CBC8-445d-B7FA-EF17519AD1F9}-Name">
+            <instance_effect url="#{8BF7F691-CBC8-445d-B7FA-EF17519AD1F9}-Effect"/>
+        </material>
+    </library_materials>
+    <library_effects>
+        <effect id="{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}-Effect">
+            <profile_COMMON>
+                <technique sid="common">
+                    <phong>
+                        <diffuse>
+                            <color>0.6 0.6 0.451765 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.06 0.06 0.06 0</color>
+                        </specular>
+                        <ambient>
+                            <color>0.1 0.1 0.1 0</color>
+                        </ambient>
+                        <emission>
+                            <color>0 0 0 0</color>
+                        </emission>
+                        <shininess>
+                            <float>1.000000</float>
+                        </shininess>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="{CA2FD7F6-C6CF-4d26-85D2-804742A93BCD}-Effect">
+            <profile_COMMON>
+                <technique sid="common">
+                    <phong>
+                        <diffuse>
+                            <color>0 0 0 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.06 0.06 0.06 0</color>
+                        </specular>
+                        <ambient>
+                            <color>0.1 0.1 0.1 0</color>
+                        </ambient>
+                        <emission>
+                            <color>0 0 0 0</color>
+                        </emission>
+                        <shininess>
+                            <float>1.000000</float>
+                        </shininess>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="{8BF7F691-CBC8-445d-B7FA-EF17519AD1F9}-Effect">
+            <profile_COMMON>
+                <technique sid="common">
+                    <phong>
+                        <diffuse>
+                            <color>0 0.6 0 1</color>
+                        </diffuse>
+                        <specular>
+                            <color>0.06 0.06 0.06 0</color>
+                        </specular>
+                        <ambient>
+                            <color>0.1 0.1 0.1 0</color>
+                        </ambient>
+                        <emission>
+                            <color>0 0 0 0</color>
+                        </emission>
+                        <shininess>
+                            <float>1.000000</float>
+                        </shininess>
+                    </phong>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_geometries>
+        <geometry id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}" name="">
+            <mesh>
+                <source id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-position3f" name="position3f">
+                    <float_array id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-position3f-array" count="72">1 0.75 0.6 1 0.75 0.581 0 0.75 0.6 0 0.75 0.581 0 0.75 0.6 0 0.75 0.581 0 0 0.6 0 0 0.581 0 0 0.6 0 0 0.581 1 0 0.6 1 0 0.581 1 0 0.6 1 0 0.581 1 0.75 0.6 1 0.75 0.581 1 0.75 0.6 0 0.75 0.6 0 0 0.6 1 0 0.6 1 0.75 0.581 0 0.75 0.581 0 0 0.581 1 0 0.581 </float_array>
+                    <technique_common>
+                        <accessor source="#{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-position3f-array" offset="0" count="24" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-vertices">
+                    <input semantic="POSITION" source="#{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-position3f"/>
+                </vertices>
+                <source id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-normals3f" name="normals3f">
+                    <float_array id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-normals3f-array" count="72">0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 </float_array>
+                    <technique_common>
+                        <accessor source="#{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-normals3f-array" offset="0" count="24" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <triangles count="12" material="{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}">
+                    <input semantic="VERTEX" source="#{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-vertices" offset="0"/>
+                    <input semantic="NORMAL" source="#{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}-normals3f" offset="1"/>
+                    <p>0 0 1 1 3 3 3 3 2 2 0 0 4 4 5 5 7 7 7 7 6 6 4 4 8 8 9 9 11 11 11 11 10 10 8 8 12 12 13 13 15 15 15 15 14 14 12 12 16 16 18 18 19 19 18 18 16 16 17 17 20 20 23 23 22 22 22 22 21 21 20 20 </p>
+                </triangles>
+            </mesh>
+        </geometry>
+    </library_geometries>
+    <library_visual_scenes>
+        <visual_scene id="VisualSceneNode" name="VisualScene">
+            <node id="{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}_Node" name="">
+                <instance_geometry url="#{5D9D5A7B-ADE0-4220-A59D-695D0CA08324}">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}" target="#{6AEF21D7-3F19-4018-983D-6C7AAF898BF5}"/>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#VisualSceneNode"/>
+    </scene>
+</COLLADA>
