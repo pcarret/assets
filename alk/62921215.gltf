@@ -11871,7 +11871,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -11886,52 +11886,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
-            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
-        },
-        {
-            "pbrMetallicRoughness": {
-                "baseColorTexture": {
-                    "index": 1
-                },
-                "metallicFactor": 0.0
-            },
-            "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "alphaMode": "BLEND",
-            "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
-        },
-        {
-            "pbrMetallicRoughness": {
-                "baseColorTexture": {
-                    "index": 0
-                },
-                "metallicFactor": 0.0
-            },
-            "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "alphaMode": "BLEND",
-            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
-        },
-        {
-            "pbrMetallicRoughness": {
-                "baseColorTexture": {
-                    "index": 0
-                },
-                "metallicFactor": 0.0
-            },
-            "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -11946,7 +11901,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -11961,7 +11916,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -11976,7 +11931,37 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
+            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
+            "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -11991,7 +11976,22 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
+            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12009,7 +12009,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C9F2430D-2400-4583-BEE2-E4E62724627C}-Effect"
         },
         {
@@ -12027,7 +12027,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{803167A3-2C0D-495a-97AE-71427B71ACE9}-Effect"
         },
         {
@@ -12045,7 +12045,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{803167A3-2C0D-495a-97AE-71427B71ACE9}-Effect"
         },
         {
@@ -12060,7 +12060,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12075,7 +12075,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12093,7 +12093,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C47F2765-1FDB-4132-B838-0BC1CAF0E0A4}-Effect"
         },
         {
@@ -12108,7 +12108,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12123,7 +12123,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12138,7 +12138,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12153,7 +12153,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12168,7 +12168,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12183,7 +12183,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12198,7 +12198,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12216,7 +12216,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{803167A3-2C0D-495a-97AE-71427B71ACE9}-Effect"
         },
         {
@@ -12234,7 +12234,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{0D431441-C0A2-42d6-9255-DF492B4F1298}-Effect"
         },
         {
@@ -12249,7 +12249,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12264,7 +12264,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12279,7 +12279,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12294,7 +12294,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12312,7 +12312,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12330,7 +12330,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12345,7 +12345,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12363,7 +12363,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12378,7 +12378,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12393,7 +12393,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12408,7 +12408,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12426,7 +12426,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12444,7 +12444,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{4F8FA1A0-0F24-487e-B52B-5EBE9A0EB14E}-Effect"
         },
         {
@@ -12459,7 +12459,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12474,7 +12474,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12489,7 +12489,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12504,7 +12504,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12519,7 +12519,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12537,7 +12537,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{0D431441-C0A2-42d6-9255-DF492B4F1298}-Effect"
         },
         {
@@ -12552,7 +12552,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12570,7 +12570,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12588,7 +12588,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12603,7 +12603,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12618,7 +12618,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12633,7 +12633,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12648,7 +12648,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12663,7 +12663,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12678,7 +12678,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12693,7 +12693,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12708,7 +12708,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12723,7 +12723,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12738,7 +12738,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12756,7 +12756,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -12774,7 +12774,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C47F2765-1FDB-4132-B838-0BC1CAF0E0A4}-Effect"
         },
         {
@@ -12792,7 +12792,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{803167A3-2C0D-495a-97AE-71427B71ACE9}-Effect"
         },
         {
@@ -12807,7 +12807,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12822,7 +12822,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12837,7 +12837,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12855,7 +12855,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C47F2765-1FDB-4132-B838-0BC1CAF0E0A4}-Effect"
         },
         {
@@ -12873,7 +12873,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{803167A3-2C0D-495a-97AE-71427B71ACE9}-Effect"
         },
         {
@@ -12888,7 +12888,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12903,7 +12903,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12918,7 +12918,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12933,7 +12933,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -12948,7 +12948,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12963,7 +12963,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{69D94095-F0A0-4b2f-B3A6-3F114A201975}-Effect"
         },
         {
@@ -12978,7 +12978,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -12993,7 +12993,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13008,7 +13008,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13026,7 +13026,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -13041,7 +13041,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{BAC8DADE-70A8-41e8-8697-D0A0507F5101}-Effect"
         },
         {
@@ -13056,7 +13056,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13071,7 +13071,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -13086,7 +13086,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -13101,7 +13101,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13119,7 +13119,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -13134,7 +13134,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13149,7 +13149,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13164,7 +13164,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13179,7 +13179,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13194,7 +13194,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13209,7 +13209,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13224,7 +13224,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13239,7 +13239,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -13254,7 +13254,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13269,7 +13269,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13284,7 +13284,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13299,7 +13299,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13314,7 +13314,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13329,7 +13329,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13344,7 +13344,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13362,7 +13362,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{803167A3-2C0D-495a-97AE-71427B71ACE9}-Effect"
         },
         {
@@ -13377,7 +13377,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13392,7 +13392,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13407,7 +13407,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13422,7 +13422,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13437,7 +13437,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13452,7 +13452,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13470,7 +13470,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{0D431441-C0A2-42d6-9255-DF492B4F1298}-Effect"
         },
         {
@@ -13485,7 +13485,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13500,7 +13500,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13515,7 +13515,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13530,7 +13530,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13545,7 +13545,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{55345B12-68DF-4ee6-A2A7-F074942BA1BC}-Effect"
         },
         {
@@ -13560,7 +13560,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13581,7 +13581,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{189B8F12-B2C9-4c75-B8DF-786E67E9C412}-Effect"
         },
         {
@@ -13596,7 +13596,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13611,7 +13611,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13626,7 +13626,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -13641,7 +13641,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13656,7 +13656,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13671,7 +13671,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13686,55 +13686,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
-            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
-        },
-        {
-            "pbrMetallicRoughness": {
-                "baseColorFactor": [
-                    0.037647102028131488,
-                    0.037647102028131488,
-                    0.037647102028131488,
-                    1.0
-                ],
-                "metallicFactor": 0.0
-            },
-            "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "alphaMode": "BLEND",
-            "name": "{C47F2765-1FDB-4132-B838-0BC1CAF0E0A4}-Effect"
-        },
-        {
-            "pbrMetallicRoughness": {
-                "baseColorTexture": {
-                    "index": 0
-                },
-                "metallicFactor": 0.0
-            },
-            "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "alphaMode": "BLEND",
-            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
-        },
-        {
-            "pbrMetallicRoughness": {
-                "baseColorTexture": {
-                    "index": 0
-                },
-                "metallicFactor": 0.0
-            },
-            "emissiveFactor": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13752,7 +13704,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C47F2765-1FDB-4132-B838-0BC1CAF0E0A4}-Effect"
         },
         {
@@ -13767,7 +13719,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13782,7 +13734,55 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
+            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.037647102028131488,
+                    0.037647102028131488,
+                    0.037647102028131488,
+                    1.0
+                ],
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
+            "name": "{C47F2765-1FDB-4132-B838-0BC1CAF0E0A4}-Effect"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
+            "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0
+            },
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13800,7 +13800,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{0D431441-C0A2-42d6-9255-DF492B4F1298}-Effect"
         },
         {
@@ -13815,7 +13815,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13833,7 +13833,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{0D431441-C0A2-42d6-9255-DF492B4F1298}-Effect"
         },
         {
@@ -13848,7 +13848,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13863,7 +13863,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13878,7 +13878,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13893,7 +13893,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13908,7 +13908,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13923,7 +13923,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13938,7 +13938,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{0D935506-EF8B-4861-AB25-EADC3CC17440}-Effect"
         },
         {
@@ -13953,7 +13953,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13968,7 +13968,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13983,7 +13983,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -13998,7 +13998,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14013,7 +14013,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -14028,7 +14028,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14043,7 +14043,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C3C4494D-4989-47dd-AEE4-17F12EDAB5E0}-Effect"
         },
         {
@@ -14058,7 +14058,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{130486D6-A442-4d5e-9D09-579C63A277C6}-Effect"
         },
         {
@@ -14073,7 +14073,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14088,7 +14088,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14103,7 +14103,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14118,7 +14118,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14136,7 +14136,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{443354E9-3A67-4d4a-A65A-5F1352E258D3}-Effect"
         },
         {
@@ -14151,7 +14151,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14169,7 +14169,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{C9F2430D-2400-4583-BEE2-E4E62724627C}-Effect"
         },
         {
@@ -14184,7 +14184,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         },
         {
@@ -14199,7 +14199,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
+            "alphaMode": "OPAQUE",
             "name": "{09F3A587-B14C-4595-961C-B20CE22E38CC}-Effect"
         }
     ],
