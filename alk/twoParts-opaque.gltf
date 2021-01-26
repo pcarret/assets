@@ -23,19 +23,19 @@
         },
         {
             "mesh": 0,
-            "name": "{BE013F76-4501-4445-8FA5-1BCB772F9A65}_Node"
+            "name": "{441CCF74-8A58-43ed-8C1E-149D8480A8ED}_Node"
         },
         {
             "mesh": 1,
-            "name": "{CD8E50AD-58D1-4f17-9EB0-68D5A75361A8}_Node"
+            "name": "{066BCF8F-E6B1-4d90-B8DD-2D6BE4EC069C}_Node"
         },
         {
             "mesh": 2,
-            "name": "{7F6313BE-ED5B-4959-89A4-F69783A30561}_Node"
+            "name": "{FD0CB0D2-CE85-4436-986B-4F79680CBFB4}_Node"
         },
         {
             "mesh": 3,
-            "name": "{7E058BF6-BBC6-4027-AA55-4972FA6D131C}_Node"
+            "name": "{8A47FEF9-4EB4-4d52-99E5-15EE250E6826}_Node"
         }
     ],
     "meshes": [
@@ -52,7 +52,7 @@
                     "material": 0
                 }
             ],
-            "name": "{BE013F76-4501-4445-8FA5-1BCB772F9A65}"
+            "name": "{441CCF74-8A58-43ed-8C1E-149D8480A8ED}"
         },
         {
             "primitives": [
@@ -67,7 +67,7 @@
                     "material": 1
                 }
             ],
-            "name": "{CD8E50AD-58D1-4f17-9EB0-68D5A75361A8}"
+            "name": "{066BCF8F-E6B1-4d90-B8DD-2D6BE4EC069C}"
         },
         {
             "primitives": [
@@ -81,7 +81,7 @@
                     "material": 2
                 }
             ],
-            "name": "{7F6313BE-ED5B-4959-89A4-F69783A30561}"
+            "name": "{FD0CB0D2-CE85-4436-986B-4F79680CBFB4}"
         },
         {
             "primitives": [
@@ -95,7 +95,7 @@
                     "material": 3
                 }
             ],
-            "name": "{7E058BF6-BBC6-4027-AA55-4972FA6D131C}"
+            "name": "{8A47FEF9-4EB4-4d52-99E5-15EE250E6826}"
         }
     ],
     "accessors": [
@@ -331,8 +331,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
-            "name": "{41B0AB48-0164-46b5-9774-8BD9DE6F06CD}-Effect"
+            "name": "{231DEF89-F57B-4380-9C16-7B561B7FB6E0}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -346,8 +345,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
-            "name": "{8C776C3C-7426-4da9-B098-1032C2D83E69}-Effect"
+            "name": "{B0B191D6-4A87-4854-B244-8CE84CC29B83}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -364,8 +362,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
-            "name": "{0FBE145B-F4CB-4f9f-BE72-F9A70584954D}-Effect"
+            "name": "{F1E4F257-524F-4db9-8139-5DB1C26F159F}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -382,8 +379,7 @@
                 0.0,
                 0.0
             ],
-            "alphaMode": "BLEND",
-            "name": "{0FBE145B-F4CB-4f9f-BE72-F9A70584954D}-Effect"
+            "name": "{F1E4F257-524F-4db9-8139-5DB1C26F159F}-Effect"
         }
     ],
     "textures": [
