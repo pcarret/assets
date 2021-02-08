@@ -21,7 +21,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gltf", "gltf", "{C2C9ED9D-B
 		gltf\pca.gltf = gltf\pca.gltf
 		alk\twoParts-opaque.glb = alk\twoParts-opaque.glb
 		alk\twoParts-opaque.gltf = alk\twoParts-opaque.gltf
-		alk\twoParts-transparent95.gltf = alk\twoParts-transparent95.gltf
 	EndProjectSection
 EndProject
 Global
