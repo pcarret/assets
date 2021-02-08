@@ -25,27 +25,27 @@
         },
         {
             "mesh": 0,
-            "name": "{F1758E8E-E6D3-41f9-9191-6DE4BAF6BD73}_Node"
+            "name": "{15EE8765-5140-4f41-B9DF-2093271E5774}_Node"
         },
         {
             "mesh": 1,
-            "name": "{8E9E5EF7-4308-4d36-BEDC-4DC882465429}_Node"
+            "name": "{1FA18999-0E02-4396-86E4-E4E7E05F59BF}_Node"
         },
         {
             "mesh": 2,
-            "name": "{6AE4157C-62B4-445f-B263-50D75C82B3E6}_Node"
+            "name": "{4AE69299-65D1-484f-A18C-0F0BBBC1D980}_Node"
         },
         {
             "mesh": 3,
-            "name": "{9E17036A-F9A7-4765-8C77-16E72C2BB365}_Node"
+            "name": "{25686E01-54E4-4237-A3E1-6D3E6D29E51C}_Node"
         },
         {
             "mesh": 4,
-            "name": "{04D79CC0-455F-48c5-B78E-AAC167005293}_Node"
+            "name": "{0E2C329B-34EA-47d5-91DF-304102BB3962}_Node"
         },
         {
             "mesh": 5,
-            "name": "{23326354-ABCD-45ce-9FBE-4A1391C59D56}_Node"
+            "name": "{686604B9-2863-4a23-840D-5C56A71E897E}_Node"
         }
     ],
     "meshes": [
@@ -61,7 +61,7 @@
                     "material": 0
                 }
             ],
-            "name": "{F1758E8E-E6D3-41f9-9191-6DE4BAF6BD73}"
+            "name": "{15EE8765-5140-4f41-B9DF-2093271E5774}"
         },
         {
             "primitives": [
@@ -75,7 +75,7 @@
                     "material": 1
                 }
             ],
-            "name": "{8E9E5EF7-4308-4d36-BEDC-4DC882465429}"
+            "name": "{1FA18999-0E02-4396-86E4-E4E7E05F59BF}"
         },
         {
             "primitives": [
@@ -89,7 +89,7 @@
                     "material": 2
                 }
             ],
-            "name": "{6AE4157C-62B4-445f-B263-50D75C82B3E6}"
+            "name": "{4AE69299-65D1-484f-A18C-0F0BBBC1D980}"
         },
         {
             "primitives": [
@@ -104,7 +104,7 @@
                     "material": 3
                 }
             ],
-            "name": "{9E17036A-F9A7-4765-8C77-16E72C2BB365}"
+            "name": "{25686E01-54E4-4237-A3E1-6D3E6D29E51C}"
         },
         {
             "primitives": [
@@ -118,7 +118,7 @@
                     "material": 4
                 }
             ],
-            "name": "{04D79CC0-455F-48c5-B78E-AAC167005293}"
+            "name": "{0E2C329B-34EA-47d5-91DF-304102BB3962}"
         },
         {
             "primitives": [
@@ -133,7 +133,7 @@
                     "material": 5
                 }
             ],
-            "name": "{23326354-ABCD-45ce-9FBE-4A1391C59D56}"
+            "name": "{686604B9-2863-4a23-840D-5C56A71E897E}"
         }
     ],
     "accessors": [
@@ -466,7 +466,7 @@
                 0.0,
                 0.0
             ],
-            "name": "{33089038-F896-49fd-BC73-C1E223F5EA1F}-Effect"
+            "name": "{7A92B4F5-C9F1-4bc6-8038-9E1BCD9E4049}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -484,7 +484,7 @@
                 0.0
             ],
             "alphaMode": "BLEND",
-            "name": "{6E7B9C56-C206-48b7-9206-82C57CD65310}-Effect"
+            "name": "{5A7BEB35-BAA7-4610-8392-B0ABFAD582DA}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -501,7 +501,7 @@
                 0.0,
                 0.0
             ],
-            "name": "{C1BA207B-883E-43f2-9F6B-D9E4F8FDEDF9}-Effect"
+            "name": "{D310CA19-C73A-4ea3-9377-6B59CED86B3D}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -515,7 +515,7 @@
                 0.0,
                 0.0
             ],
-            "name": "{F9A7D3A2-66C7-4c49-98BC-44837E39A834}-Effect"
+            "name": "{D3D5350C-1CE6-4613-B53A-3F6D6EB4929D}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -532,7 +532,7 @@
                 0.0,
                 0.0
             ],
-            "name": "{33089038-F896-49fd-BC73-C1E223F5EA1F}-Effect"
+            "name": "{7A92B4F5-C9F1-4bc6-8038-9E1BCD9E4049}-Effect"
         },
         {
             "pbrMetallicRoughness": {
@@ -546,7 +546,7 @@
                 0.0,
                 0.0
             ],
-            "name": "{04044A3F-C7A3-4184-AC1A-6C0785BCCB7A}-Effect"
+            "name": "{AD58A2B4-7BE9-4225-B7CB-E84D84ABC29C}-Effect"
         }
     ],
     "textures": [
