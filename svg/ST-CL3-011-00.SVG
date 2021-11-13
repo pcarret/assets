@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0.0 -1001.0  1680.0 1051.1" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <desc>Powered by Aleker CAD Engine</desc>
+    <g id="cad" bboxX="1600" bboxY="1001">
+        <path d="M 470.0 -1000.0 A20.0 20.0 0 0 0 450.0, -980.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -1000.0 L 470.000000 -1000.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -1000.0 A20.0 20.0 0 0 1 1150.0, -980.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -560.0 L 1150.000000 -980.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -540.0 A20.0 20.0 0 0 0 1150.0, -560.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 470.0 -540.0 L 1130.000000 -540.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 450.0 -560.0 A20.0 20.0 0 0 0 470.0, -540.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 450.0 -980.0 L 450.000000 -560.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 181.0 -381.0 L 19.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 19.0 -19.0 L 181.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -1000.0 L 470.000000 -1000.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -560.0 L 1150.000000 -980.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 470.0 -540.0 L 1130.000000 -540.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 450.0 -980.0 L 450.000000 -560.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -381.0 L 1419.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -19.0 L 1419.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -381.0 L 1400.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1419.0 -381.0 L 1419.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -0.0 L 1400.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -0.0 L 1600.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -0.0 L 1600.000000 -0.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -19.0 L 1600.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 795.0 -547.5 A5.0 5.0 0 0 1 805.0, -547.5" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 805.0 -547.5 A5.0 5.0 0 0 1 795.0, -547.5" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1381.0 -481.0 L 931.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 912.0 -481.0 L 219.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 219.0 -219.0 L 519.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 538.0 -219.0 L 1381.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 117.9 -71.2 A29.0 29.0 0 1 1 117.9, -116.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 117.9 -116.8 A37.0 37.0 0 0 0 117.9, -71.2" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1381.0 -359.5 L 1381.000000 -340.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 219.0 -359.5 L 219.000000 -340.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1381.0 -359.5 L 219.000000 -359.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1381.0 -340.5 L 219.000000 -340.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -400.0 L 0.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -400.0 L 200.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -400.0 L 0.000000 -400.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -381.0 L 0.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -985.0 L 470.000000 -985.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 470.0 -985.0 A5.0 5.0 0 0 0 465.0, -980.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 465.0 -980.0 L 465.000000 -560.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 465.0 -560.0 A5.0 5.0 0 0 0 470.0, -555.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 470.0 -555.0 L 1130.000000 -555.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -555.0 A5.0 5.0 0 0 0 1135.0, -560.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1135.0 -560.0 L 1135.000000 -980.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -985.0 A5.0 5.0 0 0 1 1135.0, -980.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <circle cx="1500" cy="-94" r="35" d="M 1500.0 -129.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <circle cx="1500" cy="-94" r="30" d="M 1500.0 -124.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <circle cx="800" cy="-284" r="35" d="M 800.0 -319.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <circle cx="800" cy="-284" r="30" d="M 800.0 -314.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -200.0 L 200.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -200.0 L 1400.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -200.0 L 1400.000000 -200.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -219.0 L 1400.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -481.0 L 219.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -219.0 L 219.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -481.0 L 200.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 219.0 -481.0 L 219.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -219.0 L 1381.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -481.0 L 1381.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -219.0 L 1400.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1381.0 -219.0 L 1381.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1517.9 -71.2 A29.0 29.0 0 1 1 1517.9, -116.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1517.9 -116.8 A37.0 37.0 0 0 0 1517.9, -71.2" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 912.0 -481.0 L 931.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 912.0 -359.5 L 931.000000 -359.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 912.0 -359.5 L 912.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 931.0 -359.5 L 931.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -0.0 L 0.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -0.0 L 200.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -0.0 L 200.000000 -0.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -19.0 L 200.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -937.5 L 1150.300000 -937.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -928.5 L 1150.300000 -928.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.3 -928.5 L 1150.300000 -937.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -949.5 L 1150.300000 -949.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -944.5 L 1150.300000 -944.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.3 -944.5 L 1150.300000 -949.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -19.0 L 1581.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -381.0 L 1581.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -19.0 L 1600.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1581.0 -19.0 L 1581.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -19.0 L 181.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -381.0 L 181.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -19.0 L 200.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 181.0 -19.0 L 181.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1518.7 -116.2 A36.0 36.0 0 0 0 1518.7, -71.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1518.7 -116.2 A29.0 29.0 0 0 1 1518.7, -71.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 118.7 -116.2 A36.0 36.0 0 0 0 118.7, -71.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 118.7 -116.2 A29.0 29.0 0 0 1 118.7, -71.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1581.0 -381.0 L 1419.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1419.0 -19.0 L 1581.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 818.7 -306.2 A36.0 36.0 0 0 0 818.7, -261.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 818.7 -306.2 A29.0 29.0 0 0 1 818.7, -261.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 817.9 -261.2 A29.0 29.0 0 1 1 817.9, -306.8" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 817.9 -306.8 A37.0 37.0 0 0 0 817.9, -261.2" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 538.0 -340.5 L 519.000000 -340.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 538.0 -219.0 L 519.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 538.0 -340.5 L 538.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 519.0 -340.5 L 519.000000 -219.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 797.0 -547.5 A3.0 3.0 0 0 1 803.0, -547.5" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 803.0 -547.5 A3.0 3.0 0 0 1 797.0, -547.5" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1130.0 -1000.0 L 470.000000 -1000.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 450.0 -980.0 L 450.000000 -560.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 470.0 -540.0 L 1130.000000 -540.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -560.0 L 1150.000000 -928.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -937.5 L 1150.000000 -944.500000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1150.0 -949.5 L 1150.000000 -980.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 200.0 -500.0 L 200.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -500.0 L 1400.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -500.0 L 200.000000 -500.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -481.0 L 200.000000 -481.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -381.0 L 19.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -19.0 L 19.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 0.0 -381.0 L 0.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 19.0 -381.0 L 19.000000 -19.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1400.0 -400.0 L 1400.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -400.0 L 1600.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -400.0 L 1400.000000 -400.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 1600.0 -381.0 L 1400.000000 -381.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <circle cx="100" cy="-94" r="35" d="M 100.0 -129.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <circle cx="100" cy="-94" r="30" d="M 100.0 -124.0" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 800.0 -540.0 L 800.000000 -519.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 810.0 -519.0 L 810.000000 -540.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+        <path d="M 790.0 -519.0 L 790.000000 -540.000000" style="fill:none;stroke-width:2.0;stroke:black;"/>
+    </g>
+</svg>
